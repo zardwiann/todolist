@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+ 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -32,7 +34,61 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+.container-app {
+  background-color: #4e1fbd;
+}
+
+.buttonsave {
+  background-color: rgb(2, 137, 210);
+  color: white;
+}
+
+.container-app {
+  font-family: cursive;
+}
+
+.list-task {
+  color: #4e1fbd;
+  background-color: white;
+  border-radius: 20px !important;
+  border: 1px solid  rgb(2, 137, 210); ;
+}
+
+.button-del {
+  color: #4e1fbd;
+
+}
+
+.list-task-container {
+  background-color: #4e1fbd;
+}
+.section{
+  font-family: cursive;
+}
+select{
+   font-family: cursive !important;
+   border-radius: 25px !important;
+}
+button{
+   font-family: cursive !important;
+
+}
+
+.btn-next{
+  
+  color: white;
+   border-radius: 20px;
+   background-color: rgb(2, 137, 210);;
+   border: none;
+
+}
+.header1{
+   font-family: cursive;
+}
+ 
